@@ -1,0 +1,11 @@
+Available actions:
+0 - to shutdown
+1 - to add item(s) to list (comma delimited list)
+2 - to remove any items (comma delimited list)
+Enter a number for which action you want to do
+
+Should be arrayList
+You should use methods on the array list to add items, remove items, check if an item is already in list and print
+a sorted list.
+You should print the list sorted alphabetically after each operation.
+You should'nt allow duplicate item in the list.
