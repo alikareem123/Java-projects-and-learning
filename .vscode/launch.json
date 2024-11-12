@@ -5,6 +5,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "com.decompilation.Main",
+            "projectName": "decompliation"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.linkedlistlearn.Main",
+            "projectName": "linkedlisttrial"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "com.example.arrayaslist.Main",
             "projectName": "arraysaslist"
         },
