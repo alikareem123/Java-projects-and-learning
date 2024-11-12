@@ -80,6 +80,7 @@ public class Main {
                     break;
                 default:
                     quitLoop = true;
+                    scanner.close();
                     break;
             }
         }
