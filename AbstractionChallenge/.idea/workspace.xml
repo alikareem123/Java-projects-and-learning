@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc0fb0a-4860-4822-8eea-38038a17c18f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractlearn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractlearn/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractlearn/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractlearn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractlearn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/challenge2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge2/src/Someway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaversioncheck/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaversioncheck/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaversioncheck/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaversioncheck/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaversioncheck/javaversioncheck.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/jave version check.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jave version check/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2osKgZNnBWcEFW8IomzuEV8OCWS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "23",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Java_Projects/AbstractionChallenge/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc0fb0a-4860-4822-8eea-38038a17c18f" name="Changes" comment="" />
+      <created>1731652955331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731652955331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
