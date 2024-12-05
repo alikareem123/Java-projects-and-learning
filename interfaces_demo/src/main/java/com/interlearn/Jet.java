@@ -10,6 +10,10 @@ public class Jet implements Trackable, FlightEnabled {
     public void takeOff() {
         System.out.println(getClass().getSimpleName() + " is taking off");
     }
+    // @Override
+    // public FlightStages transition(FlightStages stage){
+    // return FlightEnabled.super.transition(stage);
+    // }
 
     @Override
     public void land() {
@@ -19,6 +23,13 @@ public class Jet implements Trackable, FlightEnabled {
     @Override
     public void fly() {
         System.out.println(getClass().getSimpleName() + " is flying");
+    }
+
+    @Override
+    public FlightStages transition(FlightStages stage) {
+        System.out.println(getClass().getSimpleName() + " transitioning");
+        // return FlightStages.CRUISE;
+        return FlightEnabled.super.transition(stage);
     }
 
 }
